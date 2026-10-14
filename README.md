@@ -179,3 +179,194 @@ Users should not submit passwords, authentication tokens, or other sensitive cre
 If any provision of these Terms is found to be unenforceable under applicable law, the remaining provisions will continue to apply to the extent legally permitted.
 
 These Terms describe the general conditions governing authorized access to and use of the Application. They must be interpreted consistently with applicable law and Discord's governing policies.
+
+
+
+
+
+
+
+
+
+
+---
+
+# PRIVACY POLICY
+
+**Effective Date:** October 14, 2026  
+**Last Updated:** October 14, 2026
+
+## 1. Introduction
+
+This Privacy Policy explains how the Discord application (the “Application”) handles information in connection with access requests, installation, commands, interactions, and related services.
+
+The Application is an independently operated third-party project. This policy is intended to explain the principles governing the handling of information associated with its operation.
+
+By requesting access to or using the Application, you acknowledge that you have had the opportunity to review this Privacy Policy.
+
+## 2. Information That May Be Processed
+
+Depending on the Application's configuration and the features used, the following categories of information may be processed:
+
+- **Discord identifiers:** User IDs, server IDs, and other identifiers needed to identify an authorized user or server.
+- **Access requests:** Information submitted when requesting permission to install or use the Application.
+- **Command and interaction data:** Information required to receive, process, and respond to commands or interactions.
+- **Server configuration data:** Settings, role identifiers, channel identifiers, or other configuration information needed for the Application's authorized functionality.
+- **Technical and diagnostic information:** Error reports, timestamps, operational events, and technical information needed to troubleshoot problems or maintain security.
+- **Support communications:** Information voluntarily provided when contacting the operator for assistance or reporting a problem.
+
+The specific information processed depends on the features enabled and the Application's actual implementation. Not every category listed above is necessarily collected or retained.
+
+## 3. Information Not Automatically Assumed to Be Collected
+
+The Application's use does not, by itself, mean that every message, attachment, voice communication, or other item of Discord content is stored.
+
+Whether message content or other potentially sensitive information is processed depends on the permissions, events, commands, and code implemented by the Application.
+
+Users should not assume that information is never processed or stored unless that statement has been verified against the Application's actual behavior.
+
+## 4. Purposes of Processing
+
+Information may be processed where necessary for legitimate and disclosed purposes, including:
+
+- Reviewing and managing access requests.
+- Identifying authorized users and servers.
+- Providing the Application's requested functionality.
+- Maintaining operational reliability and diagnosing errors.
+- Protecting the Application against unauthorized access and abuse.
+- Responding to support requests and investigating reported incidents.
+- Complying with applicable legal obligations.
+
+Information should not be used for unrelated purposes that are incompatible with the purpose for which it was collected, except where permitted or required by applicable law.
+
+## 5. Legal Basis for Processing
+
+Where the General Data Protection Regulation (GDPR) applies, personal data must be processed on an appropriate legal basis.
+
+Depending on the circumstances, the relevant basis may include the performance of a requested service, compliance with a legal obligation, legitimate interests that do not override the rights of the individual, or consent where consent is legally appropriate.
+
+The applicable legal basis depends on the particular processing activity and must be assessed by the operator.
+
+Where consent is relied upon, it must be obtained and managed in accordance with applicable law.
+
+## 6. Data Storage and Retention
+
+Information should be retained only for as long as reasonably necessary for the purpose for which it was collected, unless a longer retention period is required or permitted by law.
+
+Retention periods may vary depending on the type of information, the Application's operational requirements, security needs, and applicable legal obligations.
+
+When information is no longer necessary, it should be deleted or anonymized where appropriate and technically feasible, subject to any applicable retention obligations.
+
+The Application's actual storage systems and retention practices determine where information is held and when it is removed.
+
+## 7. Data Sharing and Disclosure
+
+Personal information should not be sold to third parties as part of the Application's ordinary operation.
+
+Information may be disclosed where reasonably necessary to:
+
+- Operate the Application through infrastructure or hosting providers.
+- Maintain security, investigate abuse, or address technical incidents.
+- Comply with a valid legal obligation or lawful request.
+- Protect the rights, safety, or security of users or other affected parties.
+
+Where third-party providers process personal data on the operator's behalf, appropriate safeguards should be considered and implemented as required by applicable law.
+
+Information should be disclosed only to the extent necessary for the relevant purpose, subject to applicable legal requirements.
+
+## 8. Third-Party Platforms
+
+The Application operates through Discord and may rely on external hosting, storage, or infrastructure providers.
+
+Discord processes information under its own terms and privacy policy. The Application operator does not control all information processing carried out independently by Discord or other third parties.
+
+Users should consult the relevant third-party privacy notices to understand how those services process their information.
+
+## 9. Data Security
+
+Reasonable technical and organizational measures should be used to protect information against unauthorized access, accidental loss, alteration, disclosure, or destruction.
+
+Such measures may include access restrictions, limited permissions, secure configuration, appropriate credential management, and monitoring for operational errors or security incidents.
+
+No online service can guarantee absolute security. Any security incident involving personal data will be handled in accordance with applicable legal obligations.
+
+## 10. International Data Transfers
+
+Depending on the location of the Application's hosting infrastructure and its service providers, information may be processed in countries outside the user's country of residence.
+
+Where applicable data protection law restricts international transfers, appropriate transfer mechanisms and safeguards must be implemented before the relevant transfer takes place.
+
+The locations used for processing depend on the Application's actual infrastructure and providers.
+
+## 11. Data Subject Rights
+
+Where applicable data protection law grants individuals rights over their personal data, those rights may include:
+
+- The right to request access to personal data.
+- The right to request correction of inaccurate information.
+- The right to request deletion of personal data in qualifying circumstances.
+- The right to request restriction of processing in qualifying circumstances.
+- The right to object to certain processing activities.
+- The right to data portability where legally applicable.
+- The right to withdraw consent where processing is based on consent.
+- The right to lodge a complaint with a competent data protection authority.
+
+These rights are subject to the conditions, exceptions, and limitations established by applicable law.
+
+## 12. Requests for Access, Correction, and Deletion
+
+Individuals may submit privacy-related requests through the Application's official support channel.
+
+Requests should identify the relevant Discord account or server where reasonably necessary to locate the information concerned. Individuals should not submit passwords, authentication tokens, or other confidential credentials.
+
+The operator may request proportionate additional information to verify the identity or authority of the requester.
+
+Requests will be reviewed and answered within the time limits required by applicable law. Information that must be retained for a lawful purpose may not be eligible for immediate deletion.
+
+Removing the Application from a server does not necessarily delete every record held by Discord, a hosting provider, or another independent third party.
+
+## 13. Children's Privacy
+
+The Application is not intended to override Discord's minimum age requirements or any age-related restrictions imposed by applicable law.
+
+Users must meet the applicable requirements for using Discord and the Application.
+
+Where applicable law imposes additional requirements concerning children's personal data, those requirements must be respected.
+
+## 14. Cookies and Website Analytics
+
+This Privacy Policy concerns the Discord Application and its related services.
+
+If a separate website is used to provide documentation, installation requests, or support, that website may have its own technical storage, cookies, analytics, or other data-processing practices.
+
+Any such practices must be disclosed where required by applicable law. This section should not be interpreted as a claim that no cookies or analytics are used unless the relevant website has been checked.
+
+## 15. Changes to This Privacy Policy
+
+This Privacy Policy may be updated to reflect changes in the Application's functionality, information-processing practices, service providers, or legal requirements.
+
+The revised version will be published in the same location as the existing policy, together with an updated revision date.
+
+Where required by applicable law, appropriate notice will be provided before material changes take effect.
+
+Users should periodically review this policy to remain informed about the handling of information associated with the Application.
+
+## 16. Contact and Privacy Requests
+
+Privacy questions, requests concerning personal information, and reports of potential privacy issues may be submitted through the Application's official support channel.
+
+Requests will be handled in accordance with applicable data protection law.
+
+## 17. Relationship With the Terms of Service
+
+This Privacy Policy should be read together with the Application's Terms of Service.
+
+If the Application's operation changes materially, the relevant documentation must be reviewed and updated to reflect those changes accurately.
+
+Nothing in this Privacy Policy removes any rights or protections granted by applicable data protection law.
+
+## 18. Final Statement
+
+The Application aims to handle information in a manner consistent with its documented functionality, reasonable security practices, and applicable legal requirements.
+
+The actual categories of information collected, retention periods, service providers, and legal bases for processing must reflect the Application's real implementation and operating arrangements.
